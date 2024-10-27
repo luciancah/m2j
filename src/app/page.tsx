@@ -28,7 +28,7 @@ export default function Home() {
         </div>
         <div className="p-2 border-t border-gray-300">
           <a
-            href="https://github.com/yourusername/yourrepo"
+            href="https://github.com/luciancah"
             target="_blank"
             rel="noopener noreferrer"
             className="block mb-2 hover:underline text-sm"
@@ -36,7 +36,7 @@ export default function Home() {
             GH
           </a>
           <a
-            href="https://yourblog.com"
+            href="https://blog.luciancah.com"
             target="_blank"
             rel="noopener noreferrer"
             className="block hover:underline text-sm"
